@@ -1,0 +1,9 @@
+#main{
+    float: left;
+}
+#left{
+    max-width: 50%;
+}
+body{
+    background-color: blueviolet;
+}
